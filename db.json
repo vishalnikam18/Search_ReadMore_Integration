@@ -1,0 +1,47 @@
+{
+  "blogdata":[{
+    "id":1,
+    "title":"aaaaaaaaaaa",
+    "content":"fgggggggggggg"
+    
+  },
+  {
+    "id":2,
+    "title":"gggggggggggggggggggggg",
+    "content":"rrrrrrrrrrrrrrrrrr"
+    
+  },
+  {
+    "id":2,
+    "title":"gggggggggggggggggggggg",
+    "content":"rrrrrrrrrrrrrrrrrr"
+    
+  },
+  {
+    "id":3,
+    "title":"rrrrrrrrrrrrrrr",
+    "content":"rrrrrrrrrrrrrrr"
+    
+  }],
+
+
+  
+    "posts": [
+      { "id": 1, "title": "India", "author": "vishal" ,"Content":"India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."},
+      { "id": 2, "title": "Social Media", "author": "aishi"    ,"Content":"Users usually access social media services via web-based apps on desktops and laptops, or download services that offer social media functionality to their mobile devices (e.g., smartphones and tablets). As users engage with these electronic services, they create highly interactive platforms through which individuals, communities, and organizations can share, co-create, discuss, participate and modify user-generated content or self-curated content posted online.[1] Wikis are examples of collaborative content creation. Additionally, social media are used to document memories, learn about and explore things, advertise oneself and form friendships as well as the growth of ideas from the creation of blogs, podcasts, videos, and gaming sites.[5] This changing re" },
+      { "id": 3, "title": "Blog", "author": "santosh"   ,"Content":"A blog (a truncation of weblog is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, multi-author blogs (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other microblogging systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog." },
+      { "id": 4, "title": "Information technology", "author": "samiksha" ,"Content":"Information technology (IT) is the use of computers to store, retrieve, transmit and manipulate data[1] or information. IT is typically used within the context of business operations as opposed to personal or entertainment technologies.[2] IT is considered to be a subset of information and communications technology (ICT). An information technology system (IT system) is generally an information system, a communications system or, more specifically speaking, a computer system – including all hardware, software and peripheral equipment – operated by a limited group of users." },
+      { "id": 5, "title": "Camera", "author": "pk",  "Content":"A camera is an optical instrument used to record images. At their most basic, cameras are sealed boxes (the camera body) with a small hole (the aperture) that allow light in to capture an image on a light-sensitive surface (usually photographic film or a digital sensor). Cameras have various mechanisms to control how the light falls onto the light-sensitive surface. Lenses focus the light entering the camera, the size of the aperture can be widened or narrowed to let more or less light into the camera, and a shutter mechanism determines the amount of time the photo-sensitive surface is exposed to the light."}
+
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "Likes":[
+        {"id":1,"title":"India",
+            "Likedby":[{
+                "id":1,"name":"vishal"
+            }]
+        }
+    ]
+}
